@@ -1,0 +1,43 @@
+1001  https://github.com/alvillavel/checkpoint-AlvaroVilla.git
+ 1002  git clone https://github.com/alvillavel/checkpoint-AlvaroVilla.git
+ 1003  ls
+ 1004  cd checkpoint-AlvaroVilla
+ 1005  touch main.js index.html
+ 1006  ls
+ 1007  git ad.
+ 1008  git add.
+ 1009  git add .
+ 1010  git status
+ 1011  git commit -m "01 de AlvaroVilla"
+ 1012  git status
+ 1013  git push origin main
+ 1014  git branch feature
+ 1015  git checkout feature
+ 1016  mkdir Hardware Software SeguridadInformatica
+ 1017  ls
+ 1018  cd Hardware
+ 1019  touch resumen.txt
+ 1020  cd ..
+ 1021  cd SeguridadInformatica
+ 1022  touch resumen.txt
+ 1023  cd ..
+ 1024  cd Software
+ 1025  touch resumen.txt
+ 1026  cd ..
+ 1027  ls -R
+ 1028  git status
+ 1029  git add .
+ 1030  git commit -m "02 de AlvaroVilla"
+ 1031  git push origin feature
+ 1032  git checkout main
+ 1033  ls
+ 1034  mv main.js resumenHardware.txt
+ 1035  ls
+ 1036  mv index.html resumenSoftware.txt
+ 1037  ls
+ 1038  vim resumenSoftware.txt
+ 1039  vim resumenHardware.txt
+ 1040  git branch
+ 1041  touch comandos.txt
+ 1042  ls
+ 1043  history
